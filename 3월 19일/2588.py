@@ -1,0 +1,11 @@
+#2588
+a = int(input())
+b = input()
+out1 = a * int(b[2])
+out2 = a * int(b[1])
+out3 = a * int(b[0])
+total = a * int(b)
+print(out1)
+print(out2)
+print(out3)
+print(total)
