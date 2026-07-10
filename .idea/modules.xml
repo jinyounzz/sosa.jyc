@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GitHub.iml" filepath="$PROJECT_DIR$/.idea/GitHub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../대외활동/개보위 모의재판/Git_PIPC/PIPC/PIPC.iml" filepath="$PROJECT_DIR$/../../../../대외활동/개보위 모의재판/Git_PIPC/PIPC/PIPC.iml" />
+    </modules>
+  </component>
+</project>
